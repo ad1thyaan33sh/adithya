@@ -1,0 +1,36 @@
+body{
+    font-family:'arial',sans-serif;
+    margin:500px;
+    padding:5px;
+    font-display:flex;
+    background-color: rgb(15, 13, 17);
+    text-align: center;
+    color: aliceblue;
+    justify-content: center;
+}
+
+.a
+{
+    font-family:'arial',sans-serif;
+    margin:5px;
+    padding:5px;
+    font-display:flex;
+    background-color: rgb(255, 238, 0);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    justify-content: center;
+}
+
+
+.b
+{
+
+    font-family:'arial',sans-serif;
+    margin:5px;
+    padding:5px;
+    font-display:flex;
+    background-color:rgb(209, 35, 35);
+    text-align: center;
+    color: aliceblue;
+    justify-content: center;
+}
